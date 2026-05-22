@@ -56,11 +56,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamfixes&show_icons=true&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shubhamfixes&show_icons=true&theme=radical&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Shubhamfixes&theme=radical&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Shubhamfixes&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -77,7 +75,6 @@
 
 </div>
 
-###
 ## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
